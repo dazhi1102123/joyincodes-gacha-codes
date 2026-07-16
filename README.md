@@ -1,9 +1,9 @@
 # JoyInCodes — Gacha & Mobile Game Gift Codes (2026)
 
-Free, daily-updated **working gift codes** for 244+ gacha and mobile games — Genshin Impact, Honkai: Star Rail, Zenless Zone Zero, Wuthering Waves, Nikke and many more. Every code is cross-checked and date-stamped.
+Free, daily-updated **working gift codes** for 245+ gacha and mobile games — Genshin Impact, Honkai: Star Rail, Zenless Zone Zero, Wuthering Waves, Nikke and many more. Every code is cross-checked and date-stamped.
 Full lists, redemption steps, release countdowns and guides: **[www.joyincodes.online](https://www.joyincodes.online/)**
 
-> Last updated: **2026-07-16** · 244 games tracked · 120 games with active codes · 1056 working codes total
+> Last updated: **2026-07-16** · 245 games tracked · 121 games with active codes · 1047 working codes total
 
 This is an open, auto-generated mirror. Codes expire fast — the always-current list for each game is linked below.
 
@@ -12,17 +12,16 @@ This is an open, auto-generated mirror. Codes expire fast — the always-current
 | Game | Category | Active | Latest working codes | Full list |
 |------|----------|:------:|----------------------|-----------|
 | [Genshin Impact](https://www.joyincodes.online/genshin-impact/) | Open-World RPG | 20 | `EZSB8889C2BZ`, `LEGEDILJKSGM`, `PFY1S40I88T9`, `GENSHINGIFT`, `LCXGEA5SX65L`, `NMI20MAJGIBP` … | [codes »](https://www.joyincodes.online/genshin-impact/) |
-| [Zenless Zone Zero](https://www.joyincodes.online/zenless-zone-zero/) | Action RPG | 20 | `ZZZ28HERO`, `ZZZ27CHAMPION`, `ZZZGIGO`, `ZZZANGELS`, `ZZZANIMATE`, `AODDebut` … | [codes »](https://www.joyincodes.online/zenless-zone-zero/) |
+| [Zenless Zone Zero](https://www.joyincodes.online/zenless-zone-zero/) | Action RPG | 20 | `ZZZSTEAM`, `ROSCAELIFER0617`, `ZZZSEASON3`, `ZZZ30BANGBOO`, `ZENLESSGIFT`, `ZZZ28HERO` … | [codes »](https://www.joyincodes.online/zenless-zone-zero/) |
 | [Goddess of Victory: Nikke](https://www.joyincodes.online/goddess-of-victory-nikke/) | Shooter RPG | 20 | `WAVETOYOU2026`, `COMMANDERLOVETRIAL`, `PROTECTARKSTAR`, `CHEERFORANIS`, `3ANDHALFWITHCOMMANDER`, `ENCOUNTERONCEMORE` … | [codes »](https://www.joyincodes.online/goddess-of-victory-nikke/) |
 | [Solo Leveling: Arise](https://www.joyincodes.online/solo-leveling-arise/) | Action RPG | 20 | `NIGHTISCOMING0702`, `BEYONDTHEGATE`, `AGNESASCENDS`, `DeVN0Te2606`, `LISTENHEREBUSTER`, `LIUZHIGANGGANG` … | [codes »](https://www.joyincodes.online/solo-leveling-arise/) |
-| [Duet Night Abyss](https://www.joyincodes.online/duet-night-abyss/) | Action RPG | 20 | `DNAHUAXUTWA`, `DNAFREEPLAY`, `DNA1028`, `HUAXUAWAITS`, `THEWINDAWAKENING`, `DNA20251223` … | [codes »](https://www.joyincodes.online/duet-night-abyss/) |
 | [Call of Dragons](https://www.joyincodes.online/call-of-dragons/) | Strategy | 20 | `COD7ZONGZI`, `CODWORKER8`, `COD2026ANN`, `CODWOM0308`, `FN3COD2025`, `CODTHX1127` … | [codes »](https://www.joyincodes.online/call-of-dragons/) |
 | [Path to Nowhere](https://www.joyincodes.online/path-to-nowhere/) | Strategy | 20 | `LUCKYBREAK`, `SUMMERVIBE`, `CHIEF12H`, `EASTIAYEAROFHORSE`, `EASTIAINMYHEART`, `CODEXVICTOR` … | [codes »](https://www.joyincodes.online/path-to-nowhere/) |
 | [Where Winds Meet](https://www.joyincodes.online/where-winds-meet/) | Open-World RPG | 20 | `PJCXEP4MFT`, `SWCQQQHWAE`, `KPC346C44A`, `JJXDTKCD8Y`, `TPCF3FEN6Y`, `SY3KQQE8KR` … | [codes »](https://www.joyincodes.online/where-winds-meet/) |
 | [Brown Dust 2](https://www.joyincodes.online/brown-dust-2/) | Turn-Based RPG | 20 | `THANKSTGS2026BD2`, `50THANKSC107`, `2025CHRISTMASSANTA`, `THANKSAGF2025NBD2`, `2025BD2DEC`, `2025BD2NOV` … | [codes »](https://www.joyincodes.online/brown-dust-2/) |
 | [Rise of Kingdoms](https://www.joyincodes.online/rise-of-kingdoms/) | Strategy | 20 | `ROKRMDAN26`, `ROKNEWYR26`, `ROKTHX2025`, `ROKHAUNT25`, `RISEIN2025`, `ROKPLAYERS` … | [codes »](https://www.joyincodes.online/rise-of-kingdoms/) |
 | [Puzzles & Survival](https://www.joyincodes.online/puzzles-and-survival/) | Strategy | 20 | `PNSDAD26`, `PNS26PLAY`, `PNSLOVE`, `LABOR26`, `PNSEGG26`, `PNS26FOOL` … | [codes »](https://www.joyincodes.online/puzzles-and-survival/) |
-| [Tears of Themis](https://www.joyincodes.online/tears-of-themis/) | Turn-Based RPG | 20 | `BQKT35HYED`, `SIYHZ1G08B`, `6APSZ5YWKFMX`, `HBDArtem2026`, `979RARIB1Q`, `NJET65QA1C` … | [codes »](https://www.joyincodes.online/tears-of-themis/) |
+| [Tears of Themis](https://www.joyincodes.online/tears-of-themis/) | Turn-Based RPG | 20 | `YESIDO`, `BQKT35HYED`, `SIYHZ1G08B`, `6APSZ5YWKFMX`, `HBDArtem2026`, `979RARIB1Q` … | [codes »](https://www.joyincodes.online/tears-of-themis/) |
 | [Lord of Heroes](https://www.joyincodes.online/lord-of-heroes/) | Turn-Based RPG | 20 | `RAVENLAMBDA`, `DIRECTORPOEM`, `HAPPY5TH`, `5THWITHLORD`, `BDAY251214`, `BDAY251211` … | [codes »](https://www.joyincodes.online/lord-of-heroes/) |
 | [Dragon Raja](https://www.joyincodes.online/dragon-raja/) | Open-World RPG | 20 | `BGDBUGXV`, `HSRHKDV`, `BGCWWMXN`, `HRFYCSH`, `BGBUASHY`, `HQANSVH` … | [codes »](https://www.joyincodes.online/dragon-raja/) |
 | [State of Survival](https://www.joyincodes.online/state-of-survival/) | Strategy | 20 | `S97F8B65B47C`, `S14EAAB3E7FE`, `NIGHTINGALE2026`, `S7B9C86D79F0`, `SAAC0836A20F`, `S17C86ECD666` … | [codes »](https://www.joyincodes.online/state-of-survival/) |
@@ -30,7 +29,7 @@ This is an open, auto-generated mirror. Codes expire fast — the always-current
 | [Disgaea RPG](https://www.joyincodes.online/disgaea-rpg/) | Turn-Based RPG | 20 | `Dan3TQCrJ4`, `ENWzxJuDVC`, `AvZtaDUgXM`, `FqDtaASrZY`, `P9jUfkUYZ3`, `VNWHwkdqYC` … | [codes »](https://www.joyincodes.online/disgaea-rpg/) |
 | [Legend of Mushroom](https://www.joyincodes.online/legend-of-mushroom/) | Turn-Based RPG | 20 | `OVERLORDLOM`, `LOMXLOE`, `JOYGAME`, `RELAX`, `LOMPALWORLD`, `B5R8W3L6` … | [codes »](https://www.joyincodes.online/legend-of-mushroom/) |
 | [Eternal Evolution](https://www.joyincodes.online/eternal-evolution/) | Turn-Based RPG | 20 | `ZXP9S82`, `MU55AGV`, `BQ6WT54`, `ZE25YH2`, `ZH82TQ2`, `PA8YT5W` … | [codes »](https://www.joyincodes.online/eternal-evolution/) |
-| [MU Origin 3](https://www.joyincodes.online/mu-origin-3/) | Action RPG | 20 | `L6GC7J0PC9`, `Q7M9KEKPJM`, `KT68EEJC7Z`, `AT7K9K93FY`, `QHTXI7ZJ9V`, `1YTOPFHG2B` … | [codes »](https://www.joyincodes.online/mu-origin-3/) |
+| [MU Origin 3](https://www.joyincodes.online/mu-origin-3/) | Action RPG | 20 | `2UITMYG822`, `L6GC7J0PC9`, `Q7M9KEKPJM`, `KT68EEJC7Z`, `AT7K9K93FY`, `QHTXI7ZJ9V` … | [codes »](https://www.joyincodes.online/mu-origin-3/) |
 | [Devil May Cry: Peak of Combat](https://www.joyincodes.online/devil-may-cry-peak-of-combat/) | Action RPG | 20 | `HAPPYSUN825`, `HAPPYSAT515`, `HAPPYMON919`, `HAPPYSUN455`, `HAPPYSAT799`, `PALACETIME111` … | [codes »](https://www.joyincodes.online/devil-may-cry-peak-of-combat/) |
 | [Black Desert Mobile](https://www.joyincodes.online/black-desert-mobile/) | Open-World RPG | 20 | `EXTRAGIFT0719`, `THANKYOUBDM0719`, `HEIDELBALL2025`, `2025SUMMERSEASON`, `HELLOEVERYONE`, `SEOULUPDATE` … | [codes »](https://www.joyincodes.online/black-desert-mobile/) |
 | [RAID: Shadow Legends](https://www.joyincodes.online/raid-shadow-legends/) | Turn-Based RPG | 20 | `TOALLFROMMID`, `RAIDSHADOWLEGENDSCOM`, `RAIDTOGETHER`, `2GTLUCKY2026`, `EPYRE`, `RAIDBROTHERHOOD` … | [codes »](https://www.joyincodes.online/raid-shadow-legends/) |
@@ -48,7 +47,7 @@ This is an open, auto-generated mirror. Codes expire fast — the always-current
 | [Eversoul](https://www.joyincodes.online/eversoul/) | Turn-Based RPG | 15 | `SEXYLINZY`, `CUTELINZY`, `COFFEESTOPHELES`, `1121COLLABO`, `1031BUNNYSOUL`, `COOLPUNCH` … | [codes »](https://www.joyincodes.online/eversoul/) |
 | [Metal Slug: Awakening](https://www.joyincodes.online/metal-slug-awakening/) | Action RPG | 15 | `MSNEWSERVER`, `214TYM70`, `314TERDN`, `114QWKGW`, `814SDWGY`, `914GE5HR` … | [codes »](https://www.joyincodes.online/metal-slug-awakening/) |
 | [Idle Heroes](https://www.joyincodes.online/idle-heroes/) | Turn-Based RPG | 14 | `IHFOREVER`, `RETURNTOIH`, `MJT10ETERNAL`, `ECHOESOFIH`, `VOYAGEWITHIH`, `ERAOFIHGLORY` … | [codes »](https://www.joyincodes.online/idle-heroes/) |
-| [Whiteout Survival](https://www.joyincodes.online/whiteout-survival/) | Strategy | 12 | `WOS0706`, `0706FORU`, `WOS0617`, `4XB6j6dKq`, `A7K9Q2`, `WOSFAMILY26` … | [codes »](https://www.joyincodes.online/whiteout-survival/) |
+| [Whiteout Survival](https://www.joyincodes.online/whiteout-survival/) | Strategy | 12 | `WOS0715`, `OFFICIALSTORE0709`, `WOS0708`, `WOS0706`, `0706FORU`, `WOS0617` … | [codes »](https://www.joyincodes.online/whiteout-survival/) |
 | [Chasing: Kaleido RIDER](https://www.joyincodes.online/chasing-kaleidorider/) | Turn-Based RPG | 12 | `ABSOLUTE`, `2XLUCKYAY`, `BUGFIXES`, `UPDATE3.5`, `UPDATE3`, `10MVISITS` … | [codes »](https://www.joyincodes.online/chasing-kaleidorider/) |
 | [Crystal of Atlan](https://www.joyincodes.online/crystal-of-atlan/) | Action RPG | 12 | `COA300v`, `COA200v`, `COA100v`, `COAwin2`, `COAJP888`, `COA1500` … | [codes »](https://www.joyincodes.online/crystal-of-atlan/) |
 | [Archero](https://www.joyincodes.online/archero/) | Action RPG | 12 | `HAPPY2026`, `MERRYXMAS25`, `CHRISTMASEVE`, `GW2025`, `SAKURA2025`, `STORE2025` … | [codes »](https://www.joyincodes.online/archero/) |
@@ -71,12 +70,16 @@ This is an open, auto-generated mirror. Codes expire fast — the always-current
 | [Aether Gazer](https://www.joyincodes.online/aether-gazer/) | Action RPG | 6 | `AEGTHANK2025`, `THAXADM`, `WITHU25`, `THANKU2`, `CGTNOCEAN`, `X150KFOLLOWERS` | [codes »](https://www.joyincodes.online/aether-gazer/) |
 | [Outerplane](https://www.joyincodes.online/outerplane/) | Turn-Based RPG | 6 | `OUTERGAME30`, `OUTER1STPLANE`, `PLAYOUTERPLANE1`, `PLAYOUTERPLANE2`, `OUTER1ST`, `LISHAGIFT` | [codes »](https://www.joyincodes.online/outerplane/) |
 | [The Seven Deadly Sins: Grand Cross](https://www.joyincodes.online/seven-deadly-sins-grand-cross/) | Turn-Based RPG | 6 | `777INFINITE`, `777PERFECT`, `LIGHTNDARK`, `777FLAME`, `777LEGENDRE`, `777NIGHTMARE` | [codes »](https://www.joyincodes.online/seven-deadly-sins-grand-cross/) |
+| [Duet Night Abyss](https://www.joyincodes.online/duet-night-abyss/) | Action RPG | 5 | `LINADNA`, `ACNPLO`, `2026DNABYSS`, `QCGJHY`, `EPICGAMESDNA` | [codes »](https://www.joyincodes.online/duet-night-abyss/) |
 | [Mythic Heroes](https://www.joyincodes.online/mythic-heroes/) | Turn-Based RPG | 5 | `C3ZEE4X`, `RQCDCFA`, `MH8888`, `MH7777`, `EXTRA10` | [codes »](https://www.joyincodes.online/mythic-heroes/) |
 | [Watcher of Realms](https://www.joyincodes.online/watcher-of-realms/) | Turn-Based RPG | 5 | `KORYAWAKENS`, `DEIR4WOR`, `SLATEINWOR`, `WORGUIDESDROP`, `FESTIVEBLESS25` | [codes »](https://www.joyincodes.online/watcher-of-realms/) |
 | [Exos Heroes](https://www.joyincodes.online/exos-heroes/) | Turn-Based RPG | 5 | `KR2NDBIRTHDAY`, `SEOA`, `SEASON4UPDATE`, `GLOBAL1YEAR`, `GROWTH2` | [codes »](https://www.joyincodes.online/exos-heroes/) |
 | [Wuthering Waves](https://www.joyincodes.online/wuthering-waves/) | Open-World RPG | 4 | `WUTHERINGGIFT`, `MECHANISMCITY`, `INTOTHEFOG`, `REUNION` | [codes »](https://www.joyincodes.online/wuthering-waves/) |
 | [Girls' Frontline 2: Exilium](https://www.joyincodes.online/girls-frontline-2-exilium/) | Turn-Based RPG | 4 | `KTDXF8QE6J`, `W7G6C9KNK9`, `3F2D5ULVWU`, `GFL2ANNI` | [codes »](https://www.joyincodes.online/girls-frontline-2-exilium/) |
+| [Arknights: Endfield](https://www.joyincodes.online/arknights-endfield/) | Action RPG | 4 | `ENDFIELDRENEW`, `ZAU2SYXHWX5L4ZH`, `ENDFIELDGIFT`, `ENDFIELD4PC` | [codes »](https://www.joyincodes.online/arknights-endfield/) |
+| [Summoners War: Sky Arena](https://www.joyincodes.online/summoners-war-sky-arena/) | Turn-Based RPG | 4 | `GZS3ACHAMP10N`, `SWXVTCGRANDESPORTS`, `JULSW2026Y1O`, `SWXFRIEREN2026` | [codes »](https://www.joyincodes.online/summoners-war-sky-arena/) |
 | [Seven Knights 2](https://www.joyincodes.online/seven-knights-2/) | Turn-Based RPG | 4 | `ACEISCOMING`, `WELCOMES2`, `SK2SEASON2`, `1110SEVENKNIGHTS2` | [codes »](https://www.joyincodes.online/seven-knights-2/) |
+| [Summoners War: Chronicles](https://www.joyincodes.online/summoners-war-chronicles/) | Action RPG | 4 | `GZS3ACHAMP10N`, `SWXVTCGRANDESPORTS`, `JULSW2026Y1O`, `SWXFRIEREN2026` | [codes »](https://www.joyincodes.online/summoners-war-chronicles/) |
 | [Diablo Immortal](https://www.joyincodes.online/diablo-immortal/) | Action RPG | 4 | `FLESHHARVEST`, `WILDNATURE`, `HELLFEST2025`, `BOSSGAUNTLET` | [codes »](https://www.joyincodes.online/diablo-immortal/) |
 | [One Punch Man: World](https://www.joyincodes.online/one-punch-man-world/) | Action RPG | 4 | `APRILFOOLS`, `PLAYOPMWPC`, `OPMW2024`, `OPMWSEA` | [codes »](https://www.joyincodes.online/one-punch-man-world/) |
 | [Age of Empires Mobile](https://www.joyincodes.online/age-of-empires-mobile/) | Strategy | 4 | `HAPPYMARCH`, `MERCENARYAOEM`, `AOEMCRESCENT`, `AOEMHAPPYSF` | [codes »](https://www.joyincodes.online/age-of-empires-mobile/) |
@@ -85,7 +88,6 @@ This is an open, auto-generated mirror. Codes expire fast — the always-current
 | [GrandChase](https://www.joyincodes.online/grand-chase/) | Action RPG | 4 | `GCMETATRON`, `GCMNEPTEON`, `GCMLIRE`, `GCMVICE` | [codes »](https://www.joyincodes.online/grand-chase/) |
 | [Infinity Nikki](https://www.joyincodes.online/infinity-nikki/) | Open-World RPG | 3 | `ZONGZIMOMOFRAGRANTNIKKI`, `NIKKISHIDDENSURPRISE`, `TOGETHERTOTHESTARS` | [codes »](https://www.joyincodes.online/infinity-nikki/) |
 | [Ash Echoes](https://www.joyincodes.online/ash-echoes/) | Turn-Based RPG | 3 | `BLOOMINGDAY`, `AE200FREE`, `GACHAGAMING` | [codes »](https://www.joyincodes.online/ash-echoes/) |
-| [Arknights: Endfield](https://www.joyincodes.online/arknights-endfield/) | Action RPG | 3 | `ZAU2SYXHWX5L4ZH`, `ENDFIELDGIFT`, `ENDFIELD4PC` | [codes »](https://www.joyincodes.online/arknights-endfield/) |
 | [Honkai Impact 3rd](https://www.joyincodes.online/honkai-impact-3rd/) | Action RPG | 3 | `Q9MPENXJ6N`, `M1XT0FRZLC`, `5T8NUPYUC2` | [codes »](https://www.joyincodes.online/honkai-impact-3rd/) |
 | [Guardian Tales](https://www.joyincodes.online/guardian-tales/) | Action RPG | 3 | `PLASTIC`, `MOTHERSHIP`, `STATUE` | [codes »](https://www.joyincodes.online/guardian-tales/) |
 | [Dislyte](https://www.joyincodes.online/dislyte/) | Turn-Based RPG | 3 | `202410WS`, `SUMMER`, `MOONCAKE` | [codes »](https://www.joyincodes.online/dislyte/) |
@@ -106,9 +108,7 @@ This is an open, auto-generated mirror. Codes expire fast — the always-current
 | [Blue Protocol: Star Resonance](https://www.joyincodes.online/blue-protocol-star-resonance/) | Action RPG | 2 | `STEPXENMR`, `STEPXN1GHTMARE` | [codes »](https://www.joyincodes.online/blue-protocol-star-resonance/) |
 | [Sword of Convallaria](https://www.joyincodes.online/sword-of-convallaria/) | Turn-Based RPG | 2 | `NEWYEAR2025EN`, `SOCEN100D` | [codes »](https://www.joyincodes.online/sword-of-convallaria/) |
 | [Tarisland](https://www.joyincodes.online/tarisland/) | Open-World RPG | 2 | `TARIS2024`, `MMO2024` | [codes »](https://www.joyincodes.online/tarisland/) |
-| [Summoners War: Sky Arena](https://www.joyincodes.online/summoners-war-sky-arena/) | Turn-Based RPG | 2 | `JULSW2026Y1O`, `SWXFRIEREN2026` | [codes »](https://www.joyincodes.online/summoners-war-sky-arena/) |
 | [Marvel Strike Force](https://www.joyincodes.online/marvel-strike-force/) | Turn-Based RPG | 2 | `JUNEBOOST`, `MSFENVOYSZKG` | [codes »](https://www.joyincodes.online/marvel-strike-force/) |
-| [Summoners War: Chronicles](https://www.joyincodes.online/summoners-war-chronicles/) | Action RPG | 2 | `JULSW2026Y1O`, `SWXFRIEREN2026` | [codes »](https://www.joyincodes.online/summoners-war-chronicles/) |
 | [Ni no Kuni: Cross Worlds](https://www.joyincodes.online/ni-no-kuni-cross-worlds/) | Open-World RPG | 2 | `WELCOMETOCW`, `TWENTYAWESOME` | [codes »](https://www.joyincodes.online/ni-no-kuni-cross-worlds/) |
 | [Age of Origins](https://www.joyincodes.online/age-of-origins/) | Strategy | 2 | `BivzMM`, `VIP666` | [codes »](https://www.joyincodes.online/age-of-origins/) |
 | [Mafia City](https://www.joyincodes.online/mafia-city/) | Strategy | 2 | `GSJBJC`, `VPZXVD` | [codes »](https://www.joyincodes.online/mafia-city/) |
@@ -131,6 +131,7 @@ This is an open, auto-generated mirror. Codes expire fast — the always-current
 | [Art of War: Legions](https://www.joyincodes.online/art-of-war-legions/) | Strategy | 1 | `RIOBRAZIL` | [codes »](https://www.joyincodes.online/art-of-war-legions/) |
 | [Tower of God: New World](https://www.joyincodes.online/tower-of-god-new-world/) | Turn-Based RPG | 1 | `TOGLOVEVALENTINE` | [codes »](https://www.joyincodes.online/tower-of-god-new-world/) |
 | [The Grand Mafia](https://www.joyincodes.online/the-grand-mafia/) | Strategy | 1 | `TGMPC888` | [codes »](https://www.joyincodes.online/the-grand-mafia/) |
+| [Bleach: Soul Resonance](https://www.joyincodes.online/bleach-soul-resonance/) | Action RPG | 1 | `TRUEDESPAIR` | [codes »](https://www.joyincodes.online/bleach-soul-resonance/) |
 
 ## More games we track (guides, release dates & codes when they drop)
 
@@ -147,7 +148,7 @@ Per-game redemption steps are on each game page at [www.joyincodes.online](https
 
 ## About
 
-[JoyInCodes](https://www.joyincodes.online/) tracks working gift codes, guides, release-date countdowns and FAQs for 244+ gacha and mobile games, refreshed daily.
+[JoyInCodes](https://www.joyincodes.online/) tracks working gift codes, guides, release-date countdowns and FAQs for 245+ gacha and mobile games, refreshed daily.
 
 _A fan resource. Not affiliated with or endorsed by any game developer. All game names and trademarks belong to their respective owners._
 
