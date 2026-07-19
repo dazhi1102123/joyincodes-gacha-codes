@@ -3,7 +3,7 @@
 Free, daily-updated **working gift codes** for 245+ gacha and mobile games — Genshin Impact, Honkai: Star Rail, Zenless Zone Zero, Wuthering Waves, Nikke and many more. Every code is cross-checked and date-stamped.
 Full lists, redemption steps, release countdowns and guides: **[www.joyincodes.online](https://www.joyincodes.online/)**
 
-> Last updated: **2026-07-16** · 245 games tracked · 121 games with active codes · 1047 working codes total
+> Last updated: **2026-07-19** · 245 games tracked · 121 games with active codes · 1047 working codes total
 
 This is an open, auto-generated mirror. Codes expire fast — the always-current list for each game is linked below.
 
